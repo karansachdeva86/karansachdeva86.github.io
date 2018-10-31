@@ -9,16 +9,9 @@ email: karan.sachdeva86@gmail.com
 website: Your website (optional)
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: karansachdeva86
+github_username:  karansachdeva86
+linkedin_username: karansachdeva86
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -37,6 +30,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
+V-Key Singapore	Nov 2015 - Present
+Hewlett Packard Singapore Apr 2015 - Nov 2015 
 
 # Education Section
 # educaton_title: Education #(Use this to override about education section title)
