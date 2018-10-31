@@ -4,8 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Karan Sachdeva
-title: Your job title
-email: Your email (optional)
+title: Technical Product Owner
+email: karan.sachdeva86@gmail.com
 website: Your website (optional)
 
 # Social links
